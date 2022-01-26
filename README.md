@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liuyc210
-- 👀 I’m interested in Python and deep learning. And I also try to learn more about C++, maybe rust. 
+- 👀 I’m interested in Python and Deep Learning. And I also try to learn more about C++, maybe rust. 
 - 🌱 I’m currently learning DL and how it gets accelerated on GPU or other hardwares;
 
 <!---
